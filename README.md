@@ -1,4 +1,4 @@
-# Manual QA Internship — Social Media Manager
+# Manual QA Internship — Social Media Management and Automation 
 
 ## Project Overview
 
